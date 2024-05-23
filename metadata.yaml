@@ -1,5 +1,8 @@
 _repo: The-old-house-in-the-city-b-Or-not-forsaken_73596
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Giberne, Agnes
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47772
     wikipedia: https://en.wikipedia.org/wiki/Agnes_Giberne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73596#The-old-house-in-the-city-b-Or-not-forsaken
 gutenberg_issued: '2024-05-11'
 gutenberg_type: Text
 identifiers:
